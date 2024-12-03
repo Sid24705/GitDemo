@@ -12,8 +12,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        print("123bvvmvn")
+        print("123bvvmvn")
+
         
-        
         print("123")
         print("123")
         print("123")
@@ -27,6 +29,17 @@ class ViewController: UIViewController {
         print("123bvvmvn")
         print("123bvvmvn")
         print("123bvvmvn")
+        print("123bvvmvn")
+        print("123bvvmvn")
+        print("123bvvmvn")
+        print("123bvvmvn")
+        print("123bvvmvn")
+        print("123bvvmvn")
+        print("123bvvmvn")
+        print("123bvvmvn")
+        print("123bvvmvn")
+        print("123bvvmvn")
+
 
         
         
